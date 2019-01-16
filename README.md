@@ -1,0 +1,3 @@
+# TextEntryPerformance
+
+This paper explores the effects of PopSocket, an expandable socket for attachment to mobile devices, on mobile text entry performance in both stationary and mobile settings (i.e., while seated and while walking on a treadmill, respectively). A user study revealed that PopSocket does not affect text entry speed, accuracy, and error correction effort in either settings. Further, users do not perceive it to affect their entry speed or accuracy. However, significantly more users are in favor of using it in mobile settings, presumably to increase the safety of their mobile devices.
